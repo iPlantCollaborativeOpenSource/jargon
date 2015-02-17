@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<parent>
-		<groupId>org.irods</groupId>
+		<groupId>org.iplantc.core</groupId>
 		<artifactId>jargon</artifactId>
-		<version>4.0.2.1-SNAPSHOT</version>
+		<version>4.0.2.1.1</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.irods.jargon</groupId>
+	<groupId>org.iplantc.core.jargon</groupId>
 	<artifactId>jargon-core</artifactId>
 	<packaging>jar</packaging>
 	<name>Jargon Core</name>

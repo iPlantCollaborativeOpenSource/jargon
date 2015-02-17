@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent> 
 		<artifactId>jargon</artifactId>
-		<groupId>org.irods</groupId>
-		<version>4.0.2.1-SNAPSHOT</version>
+		<groupId>org.iplantc.core</groupId>
+		<version>4.0.2.1.1</version>
 	</parent>
-	<groupId>org.irods.jargon</groupId>
+	<groupId>org.iplantc.core.jargon</groupId>
 	<artifactId>jargon-conveyor</artifactId>
 	<name>Jargon Conveyor</name>
 	<url>http://maven.apache.org</url>
@@ -22,7 +22,7 @@
 			<version>2.1.8</version>
 		</dependency>
 		<dependency>
-			<groupId>org.irods.jargon</groupId>
+			<groupId>org.iplantc.core.jargon</groupId>
 			<artifactId>jargon-data-utils</artifactId>
 		</dependency>
 		<!-- requiring cleanup -->

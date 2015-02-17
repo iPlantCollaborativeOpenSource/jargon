@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<artifactId>jargon</artifactId>
-		<groupId>org.irods</groupId>
-		<version>4.0.2.1-SNAPSHOT</version>
+		<groupId>org.iplantc.core</groupId>
+		<version>4.0.2.1.1</version>
 	</parent>
-	<groupId>org.irods.jargon</groupId>
+	<groupId>org.iplantc.core.jargon</groupId>
 	<artifactId>jargon-workflow</artifactId>
 	<description>Support for iRODS WSO workflow objects and other support for workflows built into the iRODS server</description>
 	<dependencies>
@@ -18,7 +18,7 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.irods.jargon</groupId>
+			<groupId>org.iplantc.core.jargon</groupId>
 			<artifactId>jargon-core</artifactId>
 			<scope>compile</scope>
 		</dependency>
